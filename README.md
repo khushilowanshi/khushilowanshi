@@ -37,7 +37,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="(https://w0.peakpx.com/wallpaper/601/760/HD-wallpaper-apple-macbook-laptop-on-black-background-modern-technology-laptop-apple.jpg)" width="300" alt="Coding Anime GIF" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="https://w0.peakpx.com/wallpaper/601/760/HD-wallpaper-apple-macbook-laptop-on-black-background-modern-technology-laptop-apple.jpg" width="300" alt="Coding Anime GIF" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
   </tr>
 </table>
