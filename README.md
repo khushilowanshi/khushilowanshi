@@ -37,7 +37,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="[https://raw.githubusercontent.com/7lovesakura/7lovesakura/master/img/coding.gif](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif)" width="300" alt="Coding Anime GIF" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="(https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif)" width="300" alt="Coding Anime GIF" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
   </tr>
 </table>
