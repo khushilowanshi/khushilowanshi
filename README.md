@@ -23,14 +23,14 @@
 
 ---
 
-<!-- � About Me & GIF Grid -->
+<!-- 💡 About Me & GIF Grid -->
 <table align="center" width="100%" border="0" style="background-color: transparent;">
   <tr>
     <td width="60%" valign="top">
       <h2 align="center">✨ About Me</h2>
       <ul style="font-size: 16px;">
         <li>🚀 Passionate about building highly responsive, beautiful <b>UI/UX designs</b>.</li>
-        <li>� Currently focusing on modern web technologies and the <b>React ecosystem</b>.</li>
+        <li>💻 Currently focusing on modern web technologies and the <b>React ecosystem</b>.</li>
         <li>🎨 I love blending code and creativity to solve real-world problems.</li>
         <li>🤝 Always open to exciting new collaborations and open-source projects.</li>
         <li>⚡ <i>Fun Fact:</i> I can center a <code>&lt;div&gt;</code> without opening StackOverflow!</li>
@@ -46,15 +46,15 @@
 
 ---
 
-<!-- � Skills Section -->
+<!-- 🛠 Skills Section -->
 <h2 align="center">🛠️ My Tech Arsenal</h2>
 <div align="center">
-  <p>Languages & Frameworks</p>
+  <p><b>Languages & Frameworks</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind&perline=8&theme=dark" alt="Technologies" />
   </a>
   <br/><br/>
-  <p>Tools & Platforms</p>
+  <p><b>Tools & Platforms</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,python,bootstrap,git,github,vscode,vercel,vite&perline=8&theme=dark" alt="Tools" />
   </a>
@@ -64,21 +64,26 @@
 
 ---
 
-<!-- 📊 Stats Section (Replaced Broken Images) -->
+<!-- 📊 Stats Section (Trophies Removed, Improved UI) -->
 <h2 align="center">🔥 My Developer Journey</h2>
-<p align="center"><i>(Fun widgets showing my coding activity!)</i></p>
 
+<!-- GitHub Activity Graph (Gorgeous Wave Graph) -->
 <div align="center">
-  <!-- GitHub Streak Stats (Highly Reliable) -->
   <a href="https://github.com/khushilowanshi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushilowanshi&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=FF2A73&fire=FF2A73&currStreakNum=ffffff" width="48%" alt="GitHub Streak" />
-  </a>
-  
-  <!-- GitHub Profile Trophies -->
-  <a href="https://github.com/khushilowanshi">
-    <img src="https://github-profile-trophy.vercel.app/?username=khushilowanshi&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=4" width="48%" alt="GitHub Trophies" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushilowanshi&bg_color=0D1117&color=F772A0&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="80%" alt="Activity Graph" />
   </a>
 </div>
+
+<br/>
+
+<!-- GitHub Streak Stats (Centered) -->
+<div align="center">
+  <a href="https://github.com/khushilowanshi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushilowanshi&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=FF2A73&fire=FF2A73&currStreakNum=ffffff" width="50%" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Malviya/Anmol-Malviya/main/assets/wave.gif" width="40" />
